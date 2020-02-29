@@ -1,5 +1,7 @@
 # Basic Two-Tier AWS Architecture
 
+*This was copied from the [terraform-providers/terraform-provider-aws repo](https://github.com/terraform-providers/terraform-provider-aws/tree/master/examples/two-tier) to use in basic examples.* 
+
 This provides a template for running a simple two-tier architecture on Amazon
 Web services. The premise is that you have stateless app servers running behind
 an ELB serving traffic.
